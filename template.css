@@ -1,0 +1,100 @@
+#row{
+    position:absolute;
+    top:50%;
+    left: 38%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font-size: large;
+}
+#col{
+    position: absolute;
+    top: 50%;
+    left: 44%;
+    font-size: xx-large;
+}
+input{
+    width:100%;
+    height: 40px;
+}
+
+.img1{
+    display:inline-block;
+    width: 20%;
+    height: 30%;
+    margin: 0px;
+    padding: 20px;
+} 
+
+.para{
+    width: 100%;
+    text:justify;
+}
+.contactt{
+    background-color: black;
+    color: aqua;
+    width: 150px;
+    height: 30px;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+}
+.contactt:hover{
+    background-color: rgb(34, 145, 71);
+ }
+ .name{
+    background-color: blue;
+ }
+.top{
+    background-color: black;
+    color: aliceblue;
+    width:120px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    top:30px;
+    left:0px;
+    z-index: 1;
+}
+.toppic{
+    padding: 4px;
+    width:100%;
+    height: 500px;
+}
+.picone{
+    width: 50%;
+}
+
+.house1{
+    position: relative;
+    top: 29px;
+    background-color: bisque;
+    width: 110px;
+    margin: 10px;
+}
+.img2{
+    width: 100%;
+    height:30%;
+    margin: 10px;
+}
+.img{
+    width: 100%;
+}
+.grid-item {
+  background-color: rgba(41, 41, 187, 0.8);
+  border: 12px solid white;
+  padding: 0px;
+  font-size: 30px;
+  text-align: center;
+}
+.footer{
+    height: 100px;
+    text-align:center;
+    background-color: black;
+    color: aliceblue;
+    position: relative;
+    
+}
+
+   
+   
